@@ -1,2 +1,2 @@
 # layaut 
-[https://shaxqq.github.io/layaut/index.html]
+[https://shaxqq.github.io/layaut/layaut/index.html]
